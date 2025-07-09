@@ -1,1 +1,1 @@
-# hs
+# ML-INTERNSHIP-PROJECTS
